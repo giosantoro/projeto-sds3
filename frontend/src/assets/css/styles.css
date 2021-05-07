@@ -30,3 +30,10 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+
+.btn-primary{
+    background-color: var(--color-primary) !important;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-color:cornsilk;
+}
